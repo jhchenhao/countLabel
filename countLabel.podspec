@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name         = "countLabel"
-  s.version      = "0.0.3"
-  s.summary      = "A short description of countLabel."
+  s.version      = "0.0.4"
+  s.summary      = "countLabel."
   s.description  = <<-DESC
                    Dynamic show the accumulative increase of the value
                    DESC

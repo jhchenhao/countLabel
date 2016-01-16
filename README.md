@@ -1,5 +1,5 @@
 # countLabel
-
+可以动态的显示增加的数值
 #属性说明
 ```
 @property (nonatomic, assign) NSTimeInterval allTime; //运行总共所需时间
